@@ -1,12 +1,21 @@
 """
 Notes
-    - python -m spacy download en_core_web_sm
+    - Project - qnachatbot
+    - Instance - qcb-instance # External IP - 35.188.169.72
+    - Firewall - qcb-firewall # 0.0.0.0/0 Port 5000
     - conda activate qcbenv
-    - port 5000
+    - gunicorn --bind 0.0.0.0:5000 app:app --daemon
+    - pkill gunicorn
+
+    - python -m spacy download en_core_web_sm
+    - python -m nltk.downloader stopwords
+    - python -m nltk.downloader punkt
+    - extras -> nginx - qcb_project
 """
 
 
-API = "https://qnabot-311516.el.r.appspot.com/"
+API = "http://35.188.169.72:5000/"
+methods = ['/science']
 
 # API constants
 
