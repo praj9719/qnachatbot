@@ -1,7 +1,8 @@
 """
 Notes
     - python -m spacy download en_core_web_sm
-
+    - conda activate qcbenv
+    - port 5000
 """
 
 
