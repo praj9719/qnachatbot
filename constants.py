@@ -1,3 +1,9 @@
+"""
+Notes
+    - python -m spacy download en_core_web_sm
+
+"""
+
 
 API = "https://qnabot-311516.el.r.appspot.com/"
 
