@@ -1,0 +1,64 @@
+Living Organisms and Life Processes
+Various organ-systems are continuously performing their functions in human body. Along with the various systems like digestive, respiratory, circulatory, and excretory and control systems, different external and internal organs are performing their functions independently but through a complete co-ordination. This overall system is in action in more or less same way in all the organisms. Those are in need of continuous source of energy for this purpose. Carbohydrates, fats and lipids are the main sources of this energy and it is harvested by the mitochondria present in each cell. It is not like that only foodstuff is sufficient for energy production but oxygen is also necessary. All these i.e. food stuffs and oxygen are transported up to the cell via circulatory system. Besides, it is coordinated by the control system of the body. i.e. each life process contributes in its own way in the process of energy production. Functioning of all these life processes also requires the energy.
+Human and other animals consume the fruits and vegetables. Plants are autotrophs. They prepare their own food. They utilize some of the food for themselves whereas remaining is stored in various parts like fruits, leaves, stem, roots, etc. We consume all these various plant materials and obtain different nutrients like carbohydrates, fats, proteins, vitamins, minerals, etc. Which food materials do we consume to obtain these nutrients?
+We obtain the carbohydrates from milk, fruits, jaggary, cane sugar, vegetables, potatoes, sweet potatoes, sweet meats and cereals like wheat, maize, ragi, jowar, millet, rice, etc. We get 4Kcal energy per gram of carbohydrates. Let us study the way by which this energy is obtained.
+Many players are seen consuming some food stuffs during breaks of the game.
+
+Living organism and Energy production
+Carbohydrates of the food that we consume everyday are mainly utilized for production of energy required for daily need. This energy is obtained in the form of ATP. For this purpose, glucose, a type of carbohydrates is oxidized step by step in the cells. This is called as cellular respiration. Cellular respiration occurs among the living organisms by two methods. Those two methods are aerobic respiration (oxygen is involved) and anaerobic respiration (oxygen is not involved). In aerobic respiration, glucose is oxidized in three steps.
+
+1.	Glycolysis
+Process of glycolysis occurs in cytoplasm. A molecule of glucose is oxidized step by step in this process and two molecules of each i.e. pyruvic acid, ATP, NADH2 and water are formed.
+Molecules of pyruvic acid formed in this process are converted into molecules of Acetyl-Coenzyme-A. Two molecules of NADH2 and two molecules of CO2 are released during this process.
+2.	Tricarboxylic acid cycle
+Both molecules of acetyl-CoA enter the mitochondria. Cyclic chain of reactions called as tricarboxylic acid cycle is operated on it in the mitochondria. Acetyl part of acetyl-CoA is completely oxidized through this cyclical process and molecules CO2, H2 O, NADH2, and FADH2 are derived.
+
+3.	Electron transfer chain reaction
+Molecules of NADH2 and FADH2 formed during all above processes participate in electron transfer chain reaction. Due to this, 3 molecules of ATP are obtained from each NADH2 molecule and 2 molecules of ATP from each FADH2 molecule. Besides ATP, water molecules are also formed in this reaction. Electron transfer chain reaction is operated in mitochondria only.
+Thus, a molecule of glucose is completely oxidized in aerobic respiration and molecules of CO2 and H2 O are produced along with energy.
+
+If there is insufficient amount of carbohydrates in body due to exceptional conditions like fasting and hunger, then lipids and proteins are used for energy production. In case of lipids, they are converted into fatty acids whereas proteins into amino acids. Fatty acids and amino acids are converted into acetyl-CoA and energy is obtained through complete oxidation of acetyl-CoA by the process of Krebs cycle in mitochondria.
+
+Energy Production in Microorganisms through Anaerobic
+Respiration Some organisms cannot live in presence of oxygen. Ex. Many bacteria. Such living organisms have to perform anaerobic respiration for energy production. Glycolysis and fermentation are two steps of anaerobic respiration. Glucose is incompletely oxidized and less amount of energy is obtained in this type of respiration. Pyruvic acid produced through glycolysis is converted into other organic acids or alcohol with the help of some enzymes in this process. This is called as fermentation. Some higher plants, animals and aerobic microorganisms also perform anaerobic respiration instead of aerobic respiration if there is depletion in oxygen level in the surrounding.
+Ex. Seeds perform anaerobic respiration if the soil is submerged under water during germination. Similarly, our muscle cells also perform anaerobic respiration while performing the exercise. Due to this, less amount of energy is produced in our body and lactic acid accumulates due to which we feel tired.
+Energy from different food components
+Excess of the carbohydrates are stored in liver and muscles in the form of glycogen. What is the source of proteins? What are they made up of?
+Proteins are the macromolecules formed by bonding together many amino acids. Proteins of animal origin are called as ‘first class’ proteins. We get 4 Kcal of energy per gram of proteins. Amino acids are obtained after digestion of proteins. Those amino acids are absorbed in the body and transported up to each organ and cell via blood. From these amino acids, organs and cells produce various proteins necessary for themselves and the whole body.
+
+Excess of amino acids obtained from proteins are not stored in the body. They are broken down and the ammonia formed is eliminated out of the body. If necessary, excess of proteins are converted into other useful substances like glucose through the process of gluconeogenesis.
+Plants produce the necessary amino acids from minerals denovo and thereby produce different proteins. An enzyme RUBISCO present in the plant chloroplasts is most abundant protein found in nature.
+
+The substances formed by specific chemical bond between fatty acids and alcohol are called as lipids. Digestion of lipids consumed by us is nothing but their conversion into fatty acids and alcohol. Fatty acids are absorbed up and distributed everywhere within the body. From those fatty acids, different cells produce various substances necessary to themselves. Ex. the molecules called as phospho lipids which are essential for producing plasma membrane are formed from fatty acids. Besides, fatty acids are used for producing hormones like progesterone, estrogen, testosterone, aldosterone, etc. and the covering around the axons of nerve cells. We get 9 KCal of energy per gram of lipids. Excess of lipids are stored in adipose connective tissue in the body.
+
+Vitamins are a group of heterogeneous compounds of which, each is essential for proper operation of various processes in the body. There are main six types of vitamins, e.g. A, B, C, D, E and K. Out of these, A, D, E and K are fat-soluble whereas B and C are water-soluble. We have seen that, FADH2 and NADH2 are produced in the processes like glycolysis and Krebs cycle. Vitamins like riboflavin (Vitamin B2) and nicotinamide (Vitamin B5) respectively are necessary for their production.
+
+There is about 65 – 70% water in our body. Each cell contains 70% water weight by weight. Blood-plasma also contains 90% of water. Functioning of cells and thereby whole body disturbs even if there is a little loss of water from the body. Hence, water is an essential nutrient. Along with all above mentioned nutrients, fibers are also essential nutrients. In fact, we cannot digest the fibers. However, they help in the digestion of other substances and egestion of undigested substances. We obtain the fibers from leafy vegetables, fruits, cereals, etc.
+
+Cell Division: An Essential Life Process
+Cell division is one of the very important properties of cells and living organisms. Due to this property only, a new organism is formed from existing one, a multicellular organism grows up and emaciated body can be restored.
+There are two types of cell division as mitosis and meiosis. Mitosis occurs in somatic cells and stem cells of the body whereas meiosis occurs in germ cells. Before study of cell division, we should know the structural organization of cell that we have studied earlier. Each cell has a nucleus. Besides, other cell organelles are also present. Let us study the cell division with the help of this information.
+Before any type of cell division, the cell doubles up its chromosome number present in its nucleus i.e. if chromosome number is 2n, it is doubled up to 4n.
+
+Mitosis
+Somatic cells and stem cells divide by mitosis. Mitosis is completed through two main steps. Those two steps are karyokinesis (nuclear division) and cytokinesis (cytoplasmic division). Karyokinesis is completed through four steps.
+
+A.	Prophase
+In prophase, condensation of basically thin thread-like chromosomes starts. Due to this, they become short and thick and they start to appear along with their pairs of sister chromatids. Centrioles duplicate and each centriole moves to opposite poles of the cells. Nuclear membrane and nucleolus start to disappear.
+
+B.	Metaphase
+Nuclear membrane completely disappears in metaphase. Chromosomes complete their condensation and become clearly visible along with their sister chromatids. All chromosomes are arranged parallel to equatorial plane (central plane) of the cell. Special type of flexible protein fibres (spindle fibres) are formed between centromere of each chromosome and both centrioles.
+
+C.	Anaphase
+In anaphase, centromeres split and thereby sister chromatids of each chromosome separate and they are pulled apart in opposite directions with the help of spindle fibres. Separated sister chromatids are called as daughter chromosomes. Chromosomes being pulled appear like bunch of bananas. In this way, each set of chromosomes reach at two opposite poles of the cell.
+
+D.	Telophase
+The chromosomes which have reached at opposite poles of the cell now start to decondense due to which they again become thread-like thin and invisible. Nuclear membrane is formed around each set of chromosomes reached at poles. Thus, two daughter nuclei are formed in a cell. Nucleolus also appears in each daughter nucleus. Spindle fibers completely disappear.
+
+In this way, karyokinesis completes and cytokinesis begins.
+The cytoplasm divides by cytokinesis and two new cells are formed which are called as daughter cells. In this process, a notch is formed at the equatorial plane of the cell which deepens gradually and thereby two new cells are formed. However, in case of plant cells, instead of the notch, a cell plate is formed exactly along midline of the cell and thus cytokinesis is completed.
+Mitosis is essential for growth of the body. Besides, it is necessary for restoration of emaciated body, wound healing, formation of blood cells, etc.
+
+Meiosis
+Meiosis is completed through two stages. Those two stages are meiosis-I and meiosisII. In meiosis-I, recombination / crossing over occur between homologous chromosomes and thereafter those homologous chromosomes (Not sister chromatids) are divided into two groups and thus two haploid cells are formed.
+Meiosis-II is just like mitosis. In this stage, the two haploid daughter cells formed in meiosis-I undergo division by separation of recombined sister chromatids and four haploid daughter cells are formed. Process of gamete production and spore formation occurs by meiosis. In this type of cell division, four haploid (n) daughter cells are formed from one diploid (2n) cell. During this cell division, crossing over occurs between the homologous chromosomes and thereby genetic recombination occurs. Due to this, all the four daughter cells are genetically different from parent cell and from each other too.

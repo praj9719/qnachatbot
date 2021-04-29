@@ -10,6 +10,7 @@ import math
 import json
 
 import warnings
+
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 
 import spacy
@@ -17,7 +18,7 @@ from gensim.summarization.bm25 import BM25
 from transformers import AutoTokenizer, AutoModelForQuestionAnswering, QuestionAnsweringPipeline
 import itertools
 import operator
-
+from googletrans import Translator
 import constants as c
 from flask import jsonify
 
@@ -160,55 +161,77 @@ class DocumentRetrieval:
 
 class PassageRetrieval:
 
-  def __init__(self, nlp):
-    self.tokenize = lambda text: [token.lemma_ for token in nlp(text)]
-    self.bm25 = None
-    self.passages = None
+    def __init__(self, nlp):
+        self.tokenize = lambda text: [token.lemma_ for token in nlp(text)]
+        self.bm25 = None
+        self.passages = None
 
-  def preprocess(self, doc):
-    passages = [p for p in doc.split('\n') if p and not p.startswith('=')]
-    return passages
+    def preprocess(self, doc):
+        passages = [p for p in doc.split('\n') if p and not p.startswith('=')]
+        return passages
 
-  def fit(self, docs):
-    passages = list(itertools.chain(*map(self.preprocess, docs)))
-    corpus = [self.tokenize(p) for p in passages]
-    self.bm25 = BM25(corpus)
-    self.passages = passages
+    def fit(self, docs):
+        passages = list(itertools.chain(*map(self.preprocess, docs)))
+        corpus = [self.tokenize(p) for p in passages]
+        self.bm25 = BM25(corpus)
+        self.passages = passages
 
-  def most_similar(self, question, topn=10):
-    tokens = self.tokenize(question)
-    average_idf = sum(map(lambda k: float(self.bm25.idf[k]), self.bm25.idf.keys()))
-    scores = self.bm25.get_scores(tokens, average_idf)
+    def most_similar(self, question, topn=10):
+        tokens = self.tokenize(question)
+        average_idf = sum(map(lambda k: float(self.bm25.idf[k]), self.bm25.idf.keys()))
+        scores = self.bm25.get_scores(tokens, average_idf)
 
-    pairs = [(s, i) for i, s in enumerate(scores)]
-    pairs.sort(reverse=True)
-    passages = [self.passages[i] for _, i in pairs[:topn]]
-    return passages
+        pairs = [(s, i) for i, s in enumerate(scores)]
+        pairs.sort(reverse=True)
+        passages = [self.passages[i] for _, i in pairs[:topn]]
+        return passages
 
 
 class AnswerExtractor:
 
-  def __init__(self, tokenizer, model):
-    tokenizer = AutoTokenizer.from_pretrained(tokenizer)
-    model = AutoModelForQuestionAnswering.from_pretrained(model)
-    self.nlp = QuestionAnsweringPipeline(model=model, tokenizer=tokenizer)
+    def __init__(self, tokenizer, model):
+        tokenizer = AutoTokenizer.from_pretrained(tokenizer)
+        model = AutoModelForQuestionAnswering.from_pretrained(model)
+        self.nlp = QuestionAnsweringPipeline(model=model, tokenizer=tokenizer)
 
-  def extract(self, question, passages):
-    answers = []
-    for passage in passages:
-      try:
-        answer = self.nlp(question=question, context=passage)
-        answer['text'] = passage
-        answers.append(answer)
-      except KeyError:
-        pass
-    answers.sort(key=operator.itemgetter('score'), reverse=True)
-    return answers
+    def extract(self, question, passages):
+        answers = []
+        for passage in passages:
+            try:
+                answer = self.nlp(question=question, context=passage)
+                answer['text'] = passage
+                answers.append(answer)
+            except KeyError:
+                pass
+        answers.sort(key=operator.itemgetter('score'), reverse=True)
+        return answers
 
 
 SPACY_MODEL = os.environ.get('SPACY_MODEL', 'en_core_web_sm')
 QA_MODEL = os.environ.get('QA_MODEL', 'distilbert-base-cased-distilled-squad')
 nlp = spacy.load(SPACY_MODEL, disable=['ner', 'parser', 'textcat'])
+translator = Translator()
+
+
+def translate(text, dest, src='en'):
+    try:
+        out = translator.translate(text, src=src, dest=dest).text
+        return out
+    except ValueError:
+        return text
+
+
+def detect_lang(text):
+    return translator.detect(text).lang
+
+
+def translate_ans(answers, dest):
+    ans = []
+    for answer in answers:
+        short_ans = translate(answer['short'], dest)
+        long_ans = translate(answer['long'], dest)
+        ans.append({"short": short_ans, "long": long_ans})
+    return ans
 
 
 class Bot:
@@ -237,12 +260,23 @@ class Bot:
             input_data = request.get_json()
             if input_data:
                 if c.input_text in input_data:
-                    string = input_data[c.input_text]
-                    output = self.answer(self.bot, string)
+                    question = input_data[c.input_text]
+                    que_lang = detect_lang(question)
+                    out_lang = input_data[c.output_lang]
+                    if que_lang != "en":
+                        question = translate(question, "en", src=que_lang)
+                    answers = self.answer(self.bot, question)
+                    if out_lang == "en":
+                        pass
+                    elif out_lang == c.output_in_same_lang:
+                        if que_lang != "en":
+                            answers = translate_ans(answers, que_lang)
+                    else:
+                        answers = translate_ans(answers, out_lang)
                     output_data = {c.status: c.status_success,
                                    c.title: self.bot_name,
                                    c.info: c.info_normal,
-                                   c.data: {c.message: output}}
+                                   c.data: {c.message: answers}}
                     return jsonify(output_data)
                 else:
                     output_data = {c.status: c.status_failed,
@@ -259,4 +293,3 @@ class Bot:
                            c.title: "reverse string",
                            c.info: f"Expecting POST method with '{c.input_text}' as input in json format!"}
             return jsonify(output_data)
-

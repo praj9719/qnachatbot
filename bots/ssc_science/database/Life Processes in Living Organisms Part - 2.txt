@@ -1,0 +1,91 @@
+Asexual reproduction
+	Process of formation of new organism by an organism of same species without involvement of gametes is called as asexual reproduction. As this reproduction does not involve union of two different gametes, the new organism has exact genetic similarity with the reproducing organism. This is uniparental reproduction and it occurs by mitotic cell division. Absence of genetic recombination is a drawback whereas fast process is advance of this reproductive method.
+
+Asexual reproduction in unicellular organisms
+
+Binary Fission
+	Prokaryotes (Bacteria), Protists (Amoeba, Paramoecium, Euglena, etc.) and eukaryotic cell-organelle like mitochondria and chloroplasts perform asexual reproduction by binary fission. In this process, the parent cell divides to form two similar daughter cells. Binary fission occurs either by mitosis or
+amitosis. Axis of fission / division is different in different protists. Ex.: Amoeba divides in any plane due to lack of specific shape; hence it is called as ‘simple binary fission’. Paramoecium divides by ‘transverse binary fission’ whereas Euglena by ‘longitudinal binary fission’. Binary fission is usually performed by living organisms during favorable conditions i.e. availability of abundant food material.
+
+Multiple Fission
+	Asexual reproduction by multiple fission is performed by Amoeba and other similar protists. Amoeba stops the formation of pseudopodia and thereby movements whenever there is lack of food or any other type of adverse condition. It becomes rounded and forms protective covering around plasma membrane. Such encysted Amoeba or any other protist is called as ‘Cyst’. Many nuclei are formed by repeated nuclear divisions in the cyst. It is followed by
+cytoplasmic division and thus, many amoebulae are formed. They remain encysted till there are adverse conditions. Cyst breaks open on arrival of favorable conditions and many amoebulae are released.
+
+Budding
+	Asexual reproduction occurs by budding in yeast- a unicellular fungus. Yeast cell produces two daughter nuclei by mitotic division, so as to reproduce by budding. This yeast cell is called as parent cell. A small bulge appears on the surface of parent cell. This bulge is actually a bud. One of the two daughter nuclei enters this bud. After sufficient growth, bud separates from the parent cell and starts to live independently as a daughter yeast cell.
+
+Asexual reproduction in Multicellular organisms
+
+Fragmentation
+	This type of asexual reproduction occurs in multicellular organisms. In this type of reproduction, the body of parent organism breaks up into many fragments and each fragment starts to live as an independent new organism. This type of reproduction occurs in algae like Spirogyra, and sponges like Sycon. Whenever there is plenty of water and nutrients are available to Spirogyra, its filaments grow up very fast and break up into many small fragments. Each fragment starts to live independently as a new Spirogyra fiber.If the body of Sycon breaks up accidentally into many fragments, each fragment develops into new Sycon.
+
+Regeneration
+	You may know that the wall lizard breaks up and discards some part of its tail in emergency. Discarded part is regenerated after a period. This is an example of limited regeneration. However, under certain situations, an animal- Planaria breaks up its body into two parts and thereafter each part regenerates remaining part of the body and thus two new Planaria are formed. This is called as regeneration.
+
+Budding
+	Reproduction in plants with the help of vegetative parts like root, stem, leaf and bud is called as vegetative reproduction. Vegetative propagation in potatoes is preformed with the help of ‘eyes’ present on tuber whereas in Bryophyllum it is performed with the help of buds present on leaf margin. In case of plants like sugarcane & grasses, vegetative propagation occurs with the help of buds present on nodes. Plants like carrot and radish perform vegetative propagation with the help of roots.
+
+Spore Formation
+	Take a piece of wet bread or ‘bhakari’ and keep it in humid place. Fungus will grow on it within 2 – 3 days. Observe the fungus under compound microscope and draw its diagram. Fungi like Mucor have filamantous body. They have sporangia. Once the spores are formed, sporangia burst and spores are released. Spores germinate in moist and warm place and new fungal colony is formed.
+
+Sexual Reproduction
+
+Gamete formation
+	Gametes are formed by the meiosis. In meiosis, chromosome number is reduced to half; hence haploid gametes are formed.
+
+Fertilization
+	A diploid zygote is formed in this process by union of haploid male and female gametes. The zygote divides by mitosis and embryo is formed. The embryo develops to form new individual. Two parents i.e. male parent and female parent are involved in this type of reproduction. Fusion of male gamete of male parent and female gamete of female parent occurs. Due to this, new individual always has the recombined genes of both the parents. Hence, the new individual shows similarities with the parents for some characters and has some characters different than both parents. Diversity in living organisms occurs due to genetic variation. Genetic variation helps the organisms to adjust with the changing environment and thereby to maintain their existence. Due to this, plants and animals can save themselves from being extinct.
+
+Sexual reproduction in plants
+	Flower is structural unit of sexual reproduction in plants. It consists of four floral whorls as calyx, corolla, androecium and gynaecium; arranged in sequence from outside to inside. Androecium and gynoecium are called ‘essential whorls’ because they perform the function of reproduction whereas calyx and corolla are called as ‘accessory whorls’ because they are responsible for protection of inner whorls. Members of calyx are called as ‘sepals’ and they are green colored. Members of corolla are called as ‘petals’ and they are variously colored.
+	A flower is called as ‘bisexual’ if both whorls i.e. androecium and gynoecium are present in the same flower. Ex. Hibiscus. A flower is called as ‘unisexual’ if any one of the abovementioned two whorls is present in the flower. If only androecium is present, it is ‘male flower’ and if only gynoecium is present, flower is ‘female flower’. Ex. Papaya.
+	Many flowers have the stalk for support, called as ‘pedicel’ and such flowers are called as ‘pedicellate’ whereas flower without stalk is called as ‘sessile’.
+	Androecium is male whorl and its members are called as stamens. Gynaecium is female whorl and its membranes are called as carpels.
+	Members of gynaecium are called as carpels. These may be separate or united. Ovary is present at the basal end of each carpel. A hollow ‘style’ comes up from the ovary. Stigma is present at the tip of style. Ovary contains one or many ovules. Embryo sac is formed in each ovule by meiosis. Each embryo sac consists of a haploid egg cell and two haploid polar nuclei.
+	Pollen grains from anther are transferred to the stigma. This is called as pollination.
+	Pollination occurs with the help of abiotic agents (wind, water) and biotic agents (insects and other animals). Stigma becomes sticky during pollination. Pollens germinate when they fall upon such sticky stigma i.e. a long pollen tube and two male gametes are formed. The pollen tube carries male gametes. Pollen tube reaches the embryo sac via style. Tip of the pollen tube bursts and two male gametes are released in embryo sac. One male gamete unites with the egg cell to form zygote. This is fertilization. Second male gamete unites with two polar nuclei and endosperm is formed. As two nuclei participate in this process, it is called as double fertilization.
+	When pollination involves only one flower or two flowers borne on same plant, it is called as self-pollination whereas if it involves two flowers borne on two plants of same species, it is cross-pollination. While discovering the new high yielding and resistant varieties of plants, scientists bring about the pollination with the help of brush.
+
+Sexual reproduction in human being
+	We have studied in the chapter of heredity and variation that men have XY sexchromosomes and women have XX sex-chromosomes. Reproductive system with specific organs develops in the body of men and women due to these sex-chromosomes only. X-chromosome is present in men and women whereas Y-chromosome is present in men only. Now we shall study the structure and functions of human reproductive system.
+
+Human male reproductive system 
+	Male reproductive system of humans consists of testes, various ducts and glands. Testes are present in the scrotum, outside the abdominal cavity. Testes contain numerous seminiferous tubules. Germinal epithelium present in the tubules divide by meiosis to produce sperms. Those sperms are sent forward through various tubules. Sequence of those tubules is as- rete testes, vas eferens, epididymis, vas deferens, ejaculatory duct and urinogenital duct. As the sperms are pushed forwards from one duct to next, they become mature and able to fertilize the ovum.
+	Seminal vesicles secrete their secretion in ejaculatory ducts whereas prostate glands and Cowper’s glands secrete their secretions in urinogenital duct. Semen is formed of sperms and secretions of all these glands. Semen is ejaculated out through penis. All the organs of male reproductive system are paired except urinogenital duct, penis & scrotum.
+
+Human female reproductive system
+	All organs of female reproductive system are in abdominal cavity. It includes a pair of ovaries, a pair of oviducts, single uterus and a vagina. Besides, a pair of bulbo-urethral gland is also present. Generally, every month, an ovum is released in abdominal cavity alternately from each ovary. Free end of oviduct is funnel-like. An opening is present at the center of it. Oocyte enters the oviduct through that opening. Cilia are present on inner surface of oviduct. These cilia push the oocyte towards uterus.
+
+Gamete Formation
+	Both gametes i.e. sperm and ovum are formed by meiosis. Sperms are produced in testes of men from beginning of maturation (puberty) till death. However, in case of women, at the time of birth, there are 2 – 4 million immature oocytes in the ovary of female fetus. An oocyte matures and is released from ovary every month from the beginning of maturity up to the age of menopause (approximately 45 years of age). Menopause is the stoppage of functioning of female reproductive system. At the age of about 45 – 50 years, secretion of hormones controlling the functions of female reproductive system either stops of becomes irregular. This causes the menopause.
+
+Fertilization
+	Formation of zygote by union of sperm and ovum is called as fertilization. Fertilization is internal in humans. Semen is ejaculated in vagina during copulation. Sperms, in the numbers of few millions start their journey by the route of vagina – uterus – oviduct. One of those few million sperms fertilize the only ovum present in the oviduct.
+	From the age of puberty up the menopause (from 10 – 17 years of age up to 45 – 50 years), an ovum is released every month from the ovary. i.e. out of 2 – 4 million ova, approximately only 400 oocytes are released up to the age of menopause. Remaining oocytes undergo degeneration.
+Oocytes released from ovaries during last few months nearing the age of menopause are 40 – 50 years old. Their ability of division has been diminished till now. Due to this, they cannot complete meiotic division properly. If such oocytes are fertilized, the newborns produced from them may be with some abnormalities like Down’s syndrome.
+
+Development and Birth
+The zygote formed after fertilization in the oviduct, undergoes repeated mitotic divisions and embryo is formed. Meanwhile, it is pushed towards uterus. Once it reaches the uterus, it is implanted and further development occurs after implantation. An organ called as placenta is formed for supply of food material during the growth in uterus. Embryonic development is completed approximately within nine months after the fertilization.
+The man is totally responsible, whether the couple will have a boy or a girl child. During zygote formation, man contributes either X or Y chromosome to the next generation But females transfer only X-sex chromosome to the next generation. At the time of fertilization, if Xchromosomes comes from male, the child will be a girl and if Y-chromosomecomes then the child will be a boy.
+
+Menstrual Cycle
+Female reproductive system undergoes some changes at puberty and those changes repeat at the interval of every 28 – 30 days. These repetitive changes are called as menstrual cycle. Menstrual cycle is a natural process, controlled by four hormones. Those four hormones are follicle stimulating hormone (FSH), luteinizing hormone (LH), estrogen and progesterone. One of the several follicles in the ovary starts to develop along with the oocyte present in it, under the effect of follicle stimulating hormone. This developing follicle secretes estrogen. Endometrium of the uterus starts to develop (during first cycle) or regenerate (during subsequent cycles) under the effect of estrogen. Meanwhile, developing follicle completes its development. It bursts under the effect of luteinizing hormone and oocyte is released. This is called as ovulation. Remaining tissue of the burst follicle forms the corpus luteum. Corpus luteum starts to secrete progesterone. Endometrial glands secrete their secretion under the effect of progesterone. Such endometrium is ready for implantation of embryo.
+If oocyte is not fertilized within 24 hours, corpus luteum becomes inactive and transforms into corpus albicans. Due to this, secretion of estrogen and progesterone stops completely. Endometrium starts to degenerate in absence of these two hormones. Tissues of degenerating endometrium and unfertilized ovum are discarded out through vagina. This is accompanied with continuous bleeding. Bleeding continues approximately for five days. This is called as menstruation.
+Unless the oocyte is fertilized and embryo is implanted, this process is repeated every month. If the embryo is implanted, repetition of this cycle is temporarily stopped till the parturition and thereafter period of breast feeding. Menstrual cycle is a natural process and the women experience severe pains during this period. Severe weakness is felt due to heavy bleeding. There is higher possibility of infections too during this overall period. Due to all such reasons, there is need of rest along with special personal hygiene.
+
+Reproduction and Modern Technology
+Many couples cannot have children due to various reasons. In case of women, irregularity in menstrual cycle, difficulties in oocyte production, obstacles in the oviduct, difficulties in implantation in uterus and many other reasons are responsible for this. Absence of sperms in the semen, slow movement of sperms, anomalies in the sperms are the reasons in case of males. But now with the help of advanced medical techniques like IVF, Surrogacy, Sperm bank the childless couples can have a child.
+
+In Vitro Fertilization (IVF)
+In this technique, fertilization is brought about in the test-tube and the embryo formed is implanted in uterus of woman at appropriate time. IVF technique is used for having the child in case of those childless couples who have problems like less sperm count, obstacles in oviduct, etc.
+
+Surrogacy
+Some women have problems in implantation of embryo in uterus. Such women can take the help of the modern remedial technique called as surrogacy. In this technique, oocyte is collected from the ovary of the woman having problem in implantation in uterus. That oocyte is fertilized in test-tube with the help of sperms collected from her husband. The embryo formed from such fertilization is implanted in the uterus of some other woman having normal uterus. Such a woman, in whose uterus the embryo is implanted, is called as surrogate mother.
+
+Sperm Bank/ Semen Bank
+There are various problems in sperm production as mentioned above, in case of many men. So as to have the children in case of such couples, new concept of sperm bank has been introduced. This concept is similar to blood bank. Semen ejaculated by the desired men is collected after their thorough physical and medical check-up and stored in the sperm bank.
+
+Reproductive health 
+A person’s state of being physical, mental and social strongness is called as health. In our country, there seems to be lack of awareness regarding reproductive health due to various reasons like social customs, traditions, illiteracy, shyness, etc. Especially, there seems to be indifference towards the reproductive health of women.
+Occurrence of menstrual cycle is related with reproductive and overall health of women. Now a day, women are working at par with men. Due to this, they have to stay outdoors for whole day. Bleeding occurs during menstrual cycle. Due to this, private organs (genitals) need to be maintained clean time to time, otherwise, problems regarding reproductive health may arise. Some problems regarding reproductive health may arise in men too. It is essential to maintain the cleanliness of their genitals.
+Among the various sexual diseases, syphilis and gonorrhoea occur on large scale. Both of these diseases are caused by bacteria. Occurrence of chancre (patches) on various parts of body including genitals, rash, fever, inflammation of joints, alopecia, etc. are the symptoms of syphilis. Painful and burning sensation during urination, oozing of pus through penis and vagina, inflammation of urinary tract, anus, throat, eyes, etc. are symptoms of gonorrhoea.

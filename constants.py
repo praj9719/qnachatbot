@@ -31,11 +31,23 @@ info_normal = "result ok"
 data = "data"
 message = "message"
 
-input_text = "message"
+input_text = "query"
+output_lang = "out_lang"
+output_in_same_lang = "same"
 
 # Bots
 science = {
     "name": "Science Bot",
     "database": "bots/science/database",
     "model": "bots/science/model/Science"
+}
+ssc_science = {
+    "name": "SSC Science Bot",
+    "database": "bots/ssc_science/database",
+    "model": "bots/ssc_science/model/ssc_science"
+}
+ssc_history = {
+    "name": "SSC History Bot",
+    "database": "bots/ssc_history/database",
+    "model": "bots/ssc_history/model/ssc_history"
 }
