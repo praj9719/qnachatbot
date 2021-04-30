@@ -10,7 +10,6 @@ import math
 import json
 
 import warnings
-
 warnings.filterwarnings(action='ignore', category=UserWarning, module='gensim')
 
 import spacy
@@ -100,7 +99,6 @@ class DocumentRetrieval:
         self.DF = data['DF']
         self.total_vocab = data['total_vocab']
         self.D = np.load(npy_path)
-        print(f"[Info] model loaded")
 
     def doc_freq(self, word):
         c = 0

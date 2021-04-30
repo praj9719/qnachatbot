@@ -28,6 +28,16 @@ content-type: application/json
 GET  http://127.0.0.1:5000/  HTTP/1.1
 content-type: application/json
 
+### vishwakosh Bot
+
+POST  http://127.0.0.1:5000/vishwakosh HTTP/1.1
+content-type: application/json
+
+{
+    "query": "who is virat kohli",
+    "out_lang": "en"
+}
+
 ### science Bot
 
 POST  http://127.0.0.1:5000/ssc_science HTTP/1.1
